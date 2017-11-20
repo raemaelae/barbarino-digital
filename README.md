@@ -5,7 +5,7 @@
 </head>
 <body>
   
-<h1>Barbarino digital</h1>
+<h1>style="background-color:MediumSeaGreen;">Barbarino digital</h1>
 <p>Edition</p>
 
 </body>
