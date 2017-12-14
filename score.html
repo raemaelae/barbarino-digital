@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Score"
+score: "berna_def.mei"
 ---
 <!-- A help overlay -->
 <div id="help_overlay">
@@ -57,7 +58,7 @@ title: "Score"
     };
     
     function loadFile() {
-        file = "mei/Marenzio_Quarto_a_6_02.mei";
+        file = "mei/{{ page.score }}";
         $.ajax({
             url: file
             , dataType: "text"
