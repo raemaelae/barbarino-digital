@@ -162,8 +162,22 @@ pra</title>
                             <staff xml:id="staff-0000000488978645" n="4">
                                 <layer xml:id="layer-0000001894516379" n="1">
                                     <clef xml:id="clef-0000000064530625" shape="G" line="2" dis="8" dis.place="below" />
+                                    <app>
+                                        <lem>
                                     <rest xml:id="rest-0000000916130090" dur="breve" />
+                                        </lem>
+                                        <rdg>
+                                            <rest xml:id="rest-0000000916130090" dur="semibreve" />
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <rest xml:id="rest-0000000593942391" dur="breve" />
+                                        </lem>
+                                        <rdg>
+                                            <rest xml:id="rest-0000000593942391" dur="semibreve" />
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000001753714399" n="5">
@@ -229,27 +243,67 @@ pra</title>
                             </staff>
                             <staff xml:id="staff-0000001567349614" n="4">
                                 <layer xml:id="layer-0000000639124932" n="1">
+                                    <app>
+                                        <lem>
                                     <rest xml:id="rest-0000002107175807" dur="1" />
+                                        </lem>
+                                        <rdg>
+                                            <rest xml:id="rest-0000002107175807" dur="2" />
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000801876461" dur="1" oct="3" pname="c">
                                         <verse xml:id="verse-0000000940074468" n="2">
                                             <syl xml:id="syl-0000000482500107" fontweight="bold" con="d" wordpos="i">Ac</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000801876461" dur="2" oct="3" pname="c" stem.dir="up">
+                                                <verse xml:id="verse-0000000940074468" n="2">
+                                                    <syl xml:id="syl-0000000482500107" fontweight="bold" con="d" wordpos="i">Ac</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000153246101" dur="1" oct="3" pname="g">
                                         <verse xml:id="verse-0000000336201918" n="2">
                                             <syl xml:id="syl-0000000108800447" fontweight="bold" con="d" wordpos="m">ce</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000153246101" dots="1" dur="2" oct="3" pname="g" stem.dir="up">
+                                                <verse xml:id="verse-0000000336201918" n="2">
+                                                    <syl xml:id="syl-0000000108800447" fontweight="bold" con="d" wordpos="m">ce</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
                                     <note xml:id="note-0000000045544184" dur="2" oct="3" pname="g" stem.dir="up">
                                         <verse xml:id="verse-0000000550808120" n="2">
                                             <syl xml:id="syl-0000000788456965" fontweight="bold" wordpos="t">de</syl>
                                         </verse>
                                     </note>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000739788951" dur="2" oct="3" pname="f" stem.dir="up">
                                         <verse xml:id="verse-0000002083837274" n="2">
                                             <syl xml:id="syl-0000000806117369" fontweight="bold">o</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000739788951" dur="4" oct="3" pname="f" stem.dir="up">
+                                                <verse xml:id="verse-0000002083837274" n="2">
+                                                    <syl xml:id="syl-0000000806117369" fontweight="bold">o</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000000283041848" n="5">
@@ -313,36 +367,91 @@ pra</title>
                             </staff>
                             <staff xml:id="staff-0000000626935490" n="4">
                                 <layer xml:id="layer-0000002133550086" n="1">
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000329592607" dur="2" oct="3" pname="d" stem.dir="up">
                                         <verse xml:id="verse-0000000037004106" n="2">
                                             <syl xml:id="syl-0000000203602574" fontweight="bold" con="d" wordpos="i">me</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000329592607" dur="4" oct="3" pname="d" stem.dir="up">
+                                                <verse xml:id="verse-0000000037004106" n="2">
+                                                    <syl xml:id="syl-0000000203602574" fontweight="bold" con="d" wordpos="i">me</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000382754337" dur="2" oct="3" pname="e" stem.dir="up">
                                         <verse xml:id="verse-0000000942110843" n="2">
                                             <syl xml:id="syl-0000001402972508" fontweight="bold" con="d" wordpos="m">mo</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000382754337" dur="4" oct="3" pname="e" stem.dir="up">
+                                                <verse xml:id="verse-0000000942110843" n="2">
+                                                    <syl xml:id="syl-0000001402972508" fontweight="bold" con="d" wordpos="m">mo</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000001546511941" dur="1" oct="3" pname="f">
                                         <verse xml:id="verse-0000001991610083" n="2">
                                             <syl xml:id="syl-0000000276520541" fontweight="bold" con="d" wordpos="m">ran</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000001546511941" dur="2" oct="3" pname="f" stem.dir="up">
+                                                <verse xml:id="verse-0000001991610083" n="2">
+                                                    <syl xml:id="syl-0000000276520541" fontweight="bold" con="d" wordpos="m">ran</syl>
+                                                </verse>
+                                            </note> 
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000600844337" dur="1" oct="3" pname="e">
                                         <verse xml:id="verse-0000001884624165" n="2">
                                             <syl xml:id="syl-0000001903347089" fontweight="bold" wordpos="t">da</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000600844337" dots="1" dur="2" oct="3" pname="e" stem.dir="up">
+                                                <verse xml:id="verse-0000001884624165" n="2">
+                                                    <syl xml:id="syl-0000001903347089" fontweight="bold" wordpos="t">da</syl>
+                                                </verse>
+                                            </note>  
+                                        </rdg>
+                                    </app>
                                     <note xml:id="note-0000000192534412" dur="2" oct="3" pname="e" stem.dir="up">
                                         <verse xml:id="verse-0000000125969722" n="2">
                                             <syl xml:id="syl-0000000013666265" fontweight="bold" con="d" wordpos="i">me</syl>
                                         </verse>
                                     </note>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000002082522941" dur="2" oct="3" pname="d" stem.dir="up">
                                         <verse xml:id="verse-0000002097641291" n="2">
                                             <syl xml:id="syl-0000000050377748" fontweight="bold" wordpos="t">is</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000002082522941" dur="4" oct="3" pname="d" stem.dir="up">
+                                                <verse xml:id="verse-0000002097641291" n="2">
+                                                    <syl xml:id="syl-0000000050377748" fontweight="bold" wordpos="t">is</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000001861998484" n="5">
@@ -439,22 +548,62 @@ pra</title>
                             </staff>
                             <staff xml:id="staff-0000001573408712" n="4">
                                 <layer xml:id="layer-0000001986894933" n="1">
+                                    <app>
+                                        <lem>
                                     <rest xml:id="rest-0000000308128863" dur="1" />
+                                        </lem>
+                                        <rdg>
+                                            <rest xml:id="rest-0000000308128863" dur="2" />
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000002079493050" dur="1" oct="4" pname="d">
                                         <verse xml:id="verse-0000001481701353" n="2">
                                             <syl xml:id="syl-0000000706404986" fontweight="bold" con="d" wordpos="i">UR</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000002079493050" dur="2" oct="4" pname="d" stem.dir="down">
+                                                <verse xml:id="verse-0000001481701353" n="2">
+                                                    <syl xml:id="syl-0000000706404986" fontweight="bold" con="d" wordpos="i">UR</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000002027072772" dots="1" dur="1" oct="4" pname="c">
                                         <verse xml:id="verse-0000000005971918" n="2">
                                             <syl xml:id="syl-0000000231787487" fontweight="bold" con="d" wordpos="m">SI</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000002027072772" dots="1" dur="2" oct="4" pname="c" stem.dir="down">
+                                                <verse xml:id="verse-0000000005971918" n="2">
+                                                    <syl xml:id="syl-0000000231787487" fontweight="bold" con="d" wordpos="m">SI</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
+                                    <app>
+                                        <lem>
                                     <note xml:id="note-0000000109514599" dur="2" oct="3" pname="b" stem.dir="down" accid.ges="f">
                                         <verse xml:id="verse-0000000332000516" n="2">
                                             <syl xml:id="syl-0000001273119727" fontweight="bold" wordpos="t">NA</syl>
                                         </verse>
                                     </note>
+                                        </lem>
+                                        <rdg>
+                                            <note xml:id="note-0000000109514599" dur="4" oct="3" pname="b" stem.dir="down" accid.ges="f">
+                                                <verse xml:id="verse-0000000332000516" n="2">
+                                                    <syl xml:id="syl-0000001273119727" fontweight="bold" wordpos="t">NA</syl>
+                                                </verse>
+                                            </note>
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000001529807603" n="5">
