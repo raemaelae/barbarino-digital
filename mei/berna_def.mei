@@ -245,10 +245,10 @@ pra</title>
                                 <layer xml:id="layer-0000000639124932" n="1">
                                     <app>
                                         <lem>
-                                    <rest xml:id="rest-0000002107175807" dur="1" />
+                                    <rest xml:id="rest-0000002107175807" dur="semibreve" />
                                         </lem>
                                         <rdg>
-                                            <rest xml:id="rest-0000002107175807" dur="2" />
+                                            <rest xml:id="rest-0000002107175807" dur="minim" />
                                         </rdg>
                                     </app>
                                     <app>
