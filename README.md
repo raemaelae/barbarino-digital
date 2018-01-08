@@ -11,7 +11,7 @@ Wie entschieden uns, Barbarinos Abschnitt zu Bern zu bearbeiten. Diesem liegen R
 Zielsetzung: 
 Die Kompositionen von Barbarino und Ruffo in einem gleichen Dokument eintragen und mit Hervorhebungen sichtbar machen. So wäre ein direkter Vergleich und Erkennen der Unterschiede zwischen der Vorlage (Ruffo) und der Adaption (Barbarino) möglich.
 
-Vorgehen: Eine moderne Transkription der Städte-Symphonie zu Bern im Format musicXML (via dem Programm "Finale" erstellt, durch Reto Capol) wurde verglichen mit der modernen Transkription zu Ruffos "Convertere domine" (aus Richard Sherrs Edition von 1988). Die Unterschiede in den beiden Musiksstücken wurden vermerkt. Danach wurde die Barbarino:Bern-Transkription via dem Programm Verovio vom Format musicXML in MEI umgewandelt. Mit der MEI-Datei wurde dann weiter gearbeitet. In der Codierung wurden die Abweichungen zur Komposition Ruffos eingetragen.
+Vorgehen: Eine moderne Transkription der Städte-Symphonie zu Bern im Format musicXML (via dem Programm "Finale" erstellt, durch Reto Capol) wurde verglichen mit der modernen Transkription zu Ruffos "Convertere domine" (aus Richard Sherrs Edition von 1988). Die Unterschiede in den beiden Musiksstücken wurden vermerkt. Danach wurde die Barbarino:Bern-Transkription via dem Programm Verovio vom Format musicXML in MEI umgewandelt. Mit der MEI-Datei wurde dann weiter gearbeitet. In der Codierung wurden die Abweichungen zur Komposition Ruffos eingetragen.Via der Plattform GitHub wurde das Projekt verwaltet. Die Bearbeitung der einzelnen Elemente wurde von den Projektmitarbeitern über den GitHub-Desktop vorgenommen. Damit wurde die Transparenz über die Arbeitsschritte und Aktualität der Dokumente gewahrt.
 
 ...
 
