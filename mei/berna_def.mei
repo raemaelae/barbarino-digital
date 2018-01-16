@@ -275,7 +275,7 @@
                                             <rest xml:id="rest-0000002107175807" dur="semibreve"/>
                                         </lem>
                                         <rdg>
-                                            <rest dur="minim"/>
+                                            <rest source="#source.1570" dur="minim"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -288,7 +288,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="2" oct="3"
                                                 pname="c" stem.dir="up">
                                             </note>
@@ -304,7 +304,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dots="1" dur="2"
                                                 oct="3" pname="g" stem.dir="up">
                                             </note>
@@ -327,7 +327,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3"
                                                 pname="f" stem.dir="up">
                                             </note>
@@ -423,7 +423,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3"
                                                 pname="d" stem.dir="up">
                                             </note>
@@ -439,7 +439,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3"
                                                 pname="e" stem.dir="up">
                                             </note>
@@ -455,7 +455,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="2" oct="3"
                                                 pname="f" stem.dir="up">
                                             </note>
@@ -471,7 +471,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dots="1" dur="2"
                                                 oct="3" pname="e" stem.dir="up">
                                             </note>
@@ -494,7 +494,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3"
                                                 pname="d" stem.dir="up">
                                             </note>
@@ -654,7 +654,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="2" oct="4"
                                                 pname="d" stem.dir="down">
                                             </note>
@@ -670,7 +670,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dots="1" dur="2"
                                                 oct="4" pname="c" stem.dir="down">
                                             </note>
@@ -686,7 +686,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3"
                                                 pname="b" stem.dir="down" accid.ges="f">
                                             </note>
@@ -816,7 +816,7 @@
                                                 </verse>
                                             </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3"
                                                 pname="g" stem.dir="up">
                                             </note>
@@ -835,7 +835,7 @@
                                         </verse>
                                     </note>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dur="4" oct="3" pname="b"
                                                 accid.ges="f" stem.dir="down"></note>
                                             <note dur="4" oct="3" pname="b"
@@ -843,7 +843,7 @@
                                             </note></rdg></app>
                                     <app><lem><note xml:id="note-0000000313469465" dots="1" dur="2" oct="3"
                                         pname="a" stem.dir="up"/></note></lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <note dots="1" dur="4" oct="3"
                                             pname="a" stem.dir="up"/></note></rdg></app>
                                     <beam xml:id="beam-0000001009481542">
