@@ -178,16 +178,16 @@
                                         <lem>
                                             <rest xml:id="rest-0000000916130090" dur="breve"/>
                                         </lem>
-                                        <rdg>
-                                            <rest xml:id="rest-0000000916130090" dur="semibreve"/>
+                                        <rdg source="#source.1570">
+                                            <rest dur="semibreve"/>
                                         </rdg>
                                     </app>
                                     <app>
                                         <lem>
                                             <rest xml:id="rest-0000000593942391" dur="breve"/>
                                         </lem>
-                                        <rdg>
-                                            <rest xml:id="rest-0000000593942391" dur="semibreve"/>
+                                        <rdg source="#source.1570">
+                                            <rest dur="semibreve"/>
                                         </rdg>
                                     </app>
                                 </layer>
@@ -274,8 +274,8 @@
                                         <lem>
                                             <rest xml:id="rest-0000002107175807" dur="semibreve"/>
                                         </lem>
-                                        <rdg>
-                                            <rest source="#source.1570" dur="minim"/>
+                                        <rdg source="#source.1570">
+                                            <rest dur="minim"/>
                                         </rdg>
                                     </app>
                                     <app>
