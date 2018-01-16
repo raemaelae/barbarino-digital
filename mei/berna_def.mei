@@ -275,7 +275,7 @@
                                             <rest xml:id="rest-0000002107175807" dur="semibreve"/>
                                         </lem>
                                         <rdg>
-                                            <rest xml:id="rest-0000002107175807" dur="minim"/>
+                                            <rest dur="minim"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -289,12 +289,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000801876461" dur="2" oct="3"
+                                            <note dur="2" oct="3"
                                                 pname="c" stem.dir="up">
-                                                <verse xml:id="verse-0000000940074468" n="2">
-                                                  <syl xml:id="syl-0000000482500107"
-                                                  fontweight="bold" con="d" wordpos="i">Ac</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -309,12 +305,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000153246101" dots="1" dur="2"
+                                            <note dots="1" dur="2"
                                                 oct="3" pname="g" stem.dir="up">
-                                                <verse xml:id="verse-0000000336201918" n="2">
-                                                  <syl xml:id="syl-0000000108800447"
-                                                  fontweight="bold" con="d" wordpos="m">ce</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -336,12 +328,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000739788951" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="f" stem.dir="up">
-                                                <verse xml:id="verse-0000002083837274" n="2">
-                                                  <syl xml:id="syl-0000000806117369"
-                                                  fontweight="bold">o</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -436,12 +424,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000329592607" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="d" stem.dir="up">
-                                                <verse xml:id="verse-0000000037004106" n="2">
-                                                  <syl xml:id="syl-0000000203602574"
-                                                  fontweight="bold" con="d" wordpos="i">me</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -456,12 +440,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000382754337" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="e" stem.dir="up">
-                                                <verse xml:id="verse-0000000942110843" n="2">
-                                                  <syl xml:id="syl-0000001402972508"
-                                                  fontweight="bold" con="d" wordpos="m">mo</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -476,12 +456,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000001546511941" dur="2" oct="3"
+                                            <note dur="2" oct="3"
                                                 pname="f" stem.dir="up">
-                                                <verse xml:id="verse-0000001991610083" n="2">
-                                                  <syl xml:id="syl-0000000276520541"
-                                                  fontweight="bold" con="d" wordpos="m">ran</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -496,12 +472,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000600844337" dots="1" dur="2"
+                                            <note dots="1" dur="2"
                                                 oct="3" pname="e" stem.dir="up">
-                                                <verse xml:id="verse-0000001884624165" n="2">
-                                                  <syl xml:id="syl-0000001903347089"
-                                                  fontweight="bold" wordpos="t">da</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -523,12 +495,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000002082522941" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="d" stem.dir="up">
-                                                <verse xml:id="verse-0000002097641291" n="2">
-                                                  <syl xml:id="syl-0000000050377748"
-                                                  fontweight="bold" wordpos="t">is</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -673,7 +641,7 @@
                                             <rest xml:id="rest-0000000308128863" dur="semibreve"/>
                                         </lem>
                                         <rdg>
-                                            <rest xml:id="rest-0000000308128863" dur="minim"/>
+                                            <rest dur="minim"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -687,12 +655,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000002079493050" dur="2" oct="4"
+                                            <note dur="2" oct="4"
                                                 pname="d" stem.dir="down">
-                                                <verse xml:id="verse-0000001481701353" n="2">
-                                                  <syl xml:id="syl-0000000706404986"
-                                                  fontweight="bold" con="d" wordpos="i">UR</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -707,12 +671,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000002027072772" dots="1" dur="2"
+                                            <note dots="1" dur="2"
                                                 oct="4" pname="c" stem.dir="down">
-                                                <verse xml:id="verse-0000000005971918" n="2">
-                                                  <syl xml:id="syl-0000000231787487"
-                                                  fontweight="bold" con="d" wordpos="m">SI</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -727,12 +687,8 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000109514599" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="b" stem.dir="down" accid.ges="f">
-                                                <verse xml:id="verse-0000000332000516" n="2">
-                                                  <syl xml:id="syl-0000001273119727"
-                                                  fontweight="bold" wordpos="t">NA</syl>
-                                                </verse>
                                             </note>
                                         </rdg>
                                     </app>
@@ -861,10 +817,10 @@
                                             </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000166476929" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="g" stem.dir="up">
                                             </note>
-                                            <note xml:id="note-0000000166476929" dur="4" oct="3"
+                                            <note dur="4" oct="3"
                                                 pname="g" stem.dir="up">
                                             </note>
                                         </rdg>
@@ -880,15 +836,15 @@
                                     </note>
                                         </lem>
                                         <rdg>
-                                            <note xml:id="note-0000000748394256" dur="4" oct="3" pname="b"
+                                            <note dur="4" oct="3" pname="b"
                                                 accid.ges="f" stem.dir="down"></note>
-                                            <note xml:id="note-0000000748394256" dur="4" oct="3" pname="b"
+                                            <note dur="4" oct="3" pname="b"
                                                 accid.ges="f" stem.dir="down">
                                             </note></rdg></app>
                                     <app><lem><note xml:id="note-0000000313469465" dots="1" dur="2" oct="3"
                                         pname="a" stem.dir="up"/></note></lem>
                                         <rdg>
-                                            <note xml:id="note-0000000313469465" dots="1" dur="4" oct="3"
+                                            <note dots="1" dur="4" oct="3"
                                             pname="a" stem.dir="up"/></note></rdg></app>
                                     <beam xml:id="beam-0000001009481542">
                                         <note xml:id="note-0000000184535346" dur="8" oct="3"
