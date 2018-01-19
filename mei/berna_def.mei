@@ -848,14 +848,23 @@
                                             pname="a" stem.dir="up"/></note></rdg></app>
                                     <beam xml:id="beam-0000001009481542">
                                         <note xml:id="note-0000000184535346" dur="8" oct="3"
-                                            pname="g" stem.dir="up"/>
+                                            pname="g" stem.dir="up"></note>
                                         <note xml:id="note-0000000372851719" dur="8" oct="3"
                                             pname="f" stem.dir="up"/>
                                     </beam>
-                                    <note xml:id="note-0000001017255210" dur="2" oct="3" pname="e"
-                                        stem.dir="up"/>
-                                    <note xml:id="note-0000001226432589" dur="2" oct="3" pname="d"
-                                        stem.dir="up"/>
+                                    <app><lem><note xml:id="note-0000001017255210" dur="2" oct="3" pname="e"
+                                        stem.dir="up"/></note></lem>
+                                            <rdg source="#source.1570">
+                                                <note dur="4" oct="3"
+                                                    pname="e" stem.dir="up"/></note></rdg></app>
+                                    
+                                    <app><lem><note xml:id="note-0000001226432589" dur="2" oct="3" pname="d"
+                                        stem.dir="up"></note></lem>
+                                        <rdg source="#source.1570">
+                                        <beam>
+                                            <note dur="4" oct="3" pname="d" stem.dir="up"></note>
+                                            <note dur="4" oct="3" pname="d" stem.dir="up"></note>
+                                        </beam></rdg></app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000000126284753" n="5">
