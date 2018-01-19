@@ -1003,14 +1003,17 @@
                                 <layer xml:id="layer-0000000338013181" n="1">
                                     <note xml:id="note-0000000054609743" dur="2" oct="3" pname="d"
                                         stem.dir="up" visible="false"/>
-                                    <note xml:id="note-0000001336850806" dur="2" oct="3" pname="c"
-                                        stem.dir="up"/>
-                                    <note xml:id="note-0000001237132343" dur="1" oct="3" pname="d">
+                                    <app><lem><note xml:id="note-0000001336850806" dur="2" oct="3" pname="c"
+                                        stem.dir="up"></note></lem>
+                                        <rdg><note dur="4" oct="3" pname="c"
+                                            stem.dir="up"></note></rdg></app>
+                                    <app><lem><note xml:id="note-0000001237132343" dur="1" oct="3" pname="d">
                                         <verse xml:id="verse-0000002058279551" n="2">
                                             <syl xml:id="syl-0000000310946114" fontweight="bold"
                                                 wordpos="t">go.</syl>
                                         </verse>
-                                    </note>
+                                    </note></lem>
+                                    <rdg><note dur="2" oct="3" pname="d" stem.dir="up"></note></rdg></app>
                                     <rest xml:id="rest-0000001375312657" dur="2"/>
                                     <note xml:id="note-0000001362462083" dur="2" oct="3" pname="c"
                                         stem.dir="up">
