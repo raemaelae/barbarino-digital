@@ -52,60 +52,6 @@
                         </staffGrp>
                     </scoreDef>
                     <section xml:id="section-0000000464366327">
-                        <measure xml:id="measure-0000000558986599" right="invis" n="1">
-                            <staff xml:id="staff-0000001855384799" n="1">
-                                <layer xml:id="layer-0000001835828288" n="1">
-                                    <space xml:id="space-0000001481303916"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000001471919997" n="2">
-                                <layer xml:id="layer-0000000747802695" n="1">
-                                    <space xml:id="space-0000000390131803"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000718513073" n="3">
-                                <layer xml:id="layer-0000001418651193" n="1">
-                                    <space xml:id="space-0000000969424131"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000039315034" n="4">
-                                <layer xml:id="layer-0000000449139125" n="1">
-                                    <space xml:id="space-0000000692302395"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000723590473" n="5">
-                                <layer xml:id="layer-0000001118584815" n="1">
-                                    <space xml:id="space-0000001550783021"/>
-                                </layer>
-                            </staff>
-                        </measure>
-                        <measure xml:id="measure-0000000741355866" n="2">
-                            <staff xml:id="staff-0000000311960254" n="1">
-                                <layer xml:id="layer-0000001459046976" n="1">
-                                    <space xml:id="space-0000000524902420"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000038414955" n="2">
-                                <layer xml:id="layer-0000001782239087" n="1">
-                                    <space xml:id="space-0000001002389497"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000001235140720" n="3">
-                                <layer xml:id="layer-0000000776132620" n="1">
-                                    <space xml:id="space-0000000142886876"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000521829025" n="4">
-                                <layer xml:id="layer-0000002055102405" n="1">
-                                    <space xml:id="space-0000001992738983"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000001517370927" n="5">
-                                <layer xml:id="layer-0000002141069662" n="1">
-                                    <space xml:id="space-0000000428209607"/>
-                                </layer>
-                            </staff>
-                        </measure>
                         <measure xml:id="measure-0000000024651070" right="invis" n="X1">
                             <staff xml:id="staff-0000001032968355" n="1">
                                 <layer xml:id="layer-0000000294549862" n="1">
