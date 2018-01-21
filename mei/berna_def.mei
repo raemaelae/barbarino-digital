@@ -53,31 +53,6 @@
                     </scoreDef>
                     <section xml:id="section-0000000464366327">
                         <measure xml:id="measure-0000000024651070" right="invis" n="X1">
-                            <staff xml:id="staff-0000001032968355" n="1">
-                                <layer xml:id="layer-0000000294549862" n="1">
-                                    <space xml:id="space-0000000312402011"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000184104961" n="2">
-                                <layer xml:id="layer-0000000387505221" n="1">
-                                    <space xml:id="space-0000000283137877"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000750825930" n="3">
-                                <layer xml:id="layer-0000001591677158" n="1">
-                                    <space xml:id="space-0000001506033553"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000000380542815" n="4">
-                                <layer xml:id="layer-0000001757701172" n="1">
-                                    <space xml:id="space-0000001951712556"/>
-                                </layer>
-                            </staff>
-                            <staff xml:id="staff-0000001593730182" n="5">
-                                <layer xml:id="layer-0000001900682095" n="1">
-                                    <space xml:id="space-0000001032293019"/>
-                                </layer>
-                            </staff>
                             <dir xml:id="dir-0000001819974182" place="above" staff="1"
                                 startid="#space-0000000312402011">
                                 <rend xml:id="rend-0000001603583609" fontweight="bold">In honorem
