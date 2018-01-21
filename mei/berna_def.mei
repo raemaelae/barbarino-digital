@@ -179,7 +179,7 @@
                                             <rest xml:id="rest-0000000916130090" dur="breve"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="8"/>
+                                            <rest dur="semibreve"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -187,7 +187,7 @@
                                             <rest xml:id="rest-0000000593942391" dur="breve"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="8"/>
+                                            <rest dur="semibreve"/>
                                         </rdg>
                                     </app>
                                 </layer>
@@ -275,7 +275,7 @@
                                             <rest xml:id="rest-0000002107175807" dur="semibreve"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="4"/>
+                                            <rest dur="minim"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -641,7 +641,7 @@
                                             <rest xml:id="rest-0000000308128863" dur="semibreve"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="4"/>
+                                            <rest dur="minim"/>
                                         </rdg>
                                     </app>
                                     <app>
