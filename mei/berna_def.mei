@@ -310,8 +310,6 @@
                                             </note>
                                         </rdg>
                                     </app>
-                                    <app>
-                                        <lem>
                                     <note xml:id="note-0000000045544184" dur="2" oct="3" pname="g"
                                         stem.dir="up">
                                         <verse xml:id="verse-0000000550808120" n="2">
@@ -319,12 +317,6 @@
                                                 wordpos="t">de</syl>
                                         </verse>
                                     </note>
-                                        </lem>
-                                        <rdg source="#source.1570">
-                                            <note dur="2" oct="3" pname="g"
-                                                stem.dir="up">
-                                        </rdg>
-                                    </app>
                                     <app>
                                         <lem>
                                             <note xml:id="note-0000000739788951" dur="2" oct="3"
