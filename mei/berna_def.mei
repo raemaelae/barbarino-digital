@@ -640,7 +640,7 @@
                                         <lem>
                                             <rest xml:id="rest-0000000308128863" dur="semibreve"/>
                                         </lem>
-                                        <rdg>
+                                        <rdg source="#source.1570">
                                             <rest dur="minim"/>
                                         </rdg>
                                     </app>
@@ -1005,7 +1005,7 @@
                                         stem.dir="up" visible="false"/>
                                     <app><lem><note xml:id="note-0000001336850806" dur="2" oct="3" pname="c"
                                         stem.dir="up"></note></lem>
-                                        <rdg><note dur="4" oct="3" pname="c"
+                                        <rdg source="#source.1570"><note dur="4" oct="3" pname="c"
                                             stem.dir="up"></note></rdg></app>
                                     <app><lem><note xml:id="note-0000001237132343" dur="1" oct="3" pname="d">
                                         <verse xml:id="verse-0000002058279551" n="2">
@@ -1013,7 +1013,7 @@
                                                 wordpos="t">go.</syl>
                                         </verse>
                                     </note></lem>
-                                    <rdg><note dur="2" oct="3" pname="d" stem.dir="up"></note></rdg></app>
+                                    <rdg source="#source.1570"><note dur="2" oct="3" pname="d" stem.dir="up"></note></rdg></app>
                                     <rest xml:id="rest-0000001375312657" dur="2"/>
                                     <note xml:id="note-0000001362462083" dur="2" oct="3" pname="c"
                                         stem.dir="up">
