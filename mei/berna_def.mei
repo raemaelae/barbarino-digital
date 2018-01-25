@@ -125,7 +125,7 @@
                                             <rest xml:id="rest-0000000916130090" dur="breve"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="semibreve"/>
+                                            <rest dur="1"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -133,7 +133,7 @@
                                             <rest xml:id="rest-0000000593942391" dur="breve"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="semibreve"/>
+                                            <rest dur="1"/>
                                         </rdg>
                                     </app>
                                 </layer>
@@ -218,10 +218,10 @@
                                 <layer xml:id="layer-0000000639124932" n="1">
                                     <app>
                                         <lem>
-                                            <rest xml:id="rest-0000002107175807" dur="semibreve"/>
+                                            <rest xml:id="rest-0000002107175807" dur="1"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="minim"/>
+                                            <rest dur="2"/>
                                         </rdg>
                                     </app>
                                     <app>
@@ -584,10 +584,10 @@
                                 <layer xml:id="layer-0000001986894933" n="1">
                                     <app>
                                         <lem>
-                                            <rest xml:id="rest-0000000308128863" dur="semibreve"/>
+                                            <rest xml:id="rest-0000000308128863" dur="1"/>
                                         </lem>
                                         <rdg source="#source.1570">
-                                            <rest dur="minim"/>
+                                            <rest dur="2"/>
                                         </rdg>
                                     </app>
                                     <app>
